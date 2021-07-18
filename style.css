@@ -1,0 +1,63 @@
+body{
+    /*background-color: blue;*/
+    margin: 0;
+    text-align: center;
+}
+h1{
+    margin: 0;
+    font-family : 'Fuggles', cursive;
+}
+
+.topcontainer{
+    background-color: antiquewhite;
+    border:solid 10px;
+    padding: 20px;
+    position: relative;
+    padding-top: 100px;
+
+
+}
+.middle-container{
+    background-color: rgba(250, 239, 215, 0.829)
+}
+
+.bottom-container{
+    background-color: rgba(250, 239, 215, 0.829)
+}
+.cloudtop{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 450px;
+    top: 50px;
+
+}
+.cloudbottom{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 350px;
+    bottom: 400px;
+}
+.men-img{
+    height: 125px;
+    width: 125px;
+}
+.skill{
+    height: 200px;
+    width: 200px;
+}
+.Img1{
+    margin-right: 40%;
+    position: relative;
+    top: 125px;
+}
+.Txt1{
+   margin-left: 50%;
+}
+h2{
+    font-family: 'Anton', sans-serif;
+}
+.skill-row{
+    display: inline;
+}
