@@ -6,6 +6,8 @@ body{
 h1{
     margin: 0;
     font-family : 'Fuggles', cursive;
+    color: #808080;
+    font-size: 4rem;
 }
 
 .topcontainer{
@@ -57,7 +59,19 @@ h1{
 }
 h2{
     font-family: 'Anton', sans-serif;
+    color: #808080;
 }
 .skill-row{
     display: inline;
+}
+h3{
+    color: #8f8a8a;
+}
+a{
+    color: #8f8a8a;
+}
+.sub-title{
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 2;
 }
